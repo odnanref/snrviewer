@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnrViewer", "SnrViewer\SnrViewer.csproj", "{AA5A9056-86EB-42A1-85A7-580A28A55F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5A9056-86EB-42A1-85A7-580A28A55F12}.Debug|x86.ActiveCfg = Debug|x86
+		{AA5A9056-86EB-42A1-85A7-580A28A55F12}.Debug|x86.Build.0 = Debug|x86
+		{AA5A9056-86EB-42A1-85A7-580A28A55F12}.Release|x86.ActiveCfg = Release|x86
+		{AA5A9056-86EB-42A1-85A7-580A28A55F12}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SnrViewer\SnrViewer.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = ProjectRoot
+		$3.VcsIntegration = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+		$0.StandardHeader = $5
+		$5.Text = @\n ${FileName}\n \n Author:\n      ${AuthorName} <${AuthorEmail}>\n\n Copyright (c) ${Year} ${CopyrightHolder}\n\n This program is free software; you can redistribute it and/or modify\n it under the terms of the GNU General Public License as published by\n the Free Software Foundation; either version 2 of the License, or\n (at your option) any later version.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY; without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\n GNU General Public License for more details.\n \n You should have received a copy of the GNU General Public License\n along with this program; if not, write to the Free Software\n Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA\n
+		$5.IncludeInNewFiles = True
+		$0.TextStylePolicy = $6
+		$6.FileWidth = 120
+		$6.TabWidth = 4
+		$6.inheritsSet = Mono
+		$6.inheritsScope = text/plain
+		$6.scope = text/plain
+		$0.TextStylePolicy = $7
+		$7.inheritsSet = null
+		$7.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $8
+		$8.inheritsSet = Mono
+		$8.inheritsScope = text/x-csharp
+		$8.scope = text/x-csharp
+		version = 2
+	EndGlobalSection
+EndGlobal
